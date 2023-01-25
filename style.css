@@ -23,7 +23,7 @@
 }
 body {
   background: var(--bg-url) no-repeat center/cover;
-  background-attachment: fixed;
+  height: 100vh;
 }
 
 body * {
