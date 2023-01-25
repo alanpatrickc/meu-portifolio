@@ -22,10 +22,7 @@
   --switch-bg-url: url(./assets/Sun.svg);
 }
 body {
-  background-image: var(--bg-url);
-  background-repeat: no-repeat;
-  background-position: top center;
-  background-size: cover;
+  background: var(--bg-url) no-repeat center/cover;
   background-attachment: fixed;
 }
 
