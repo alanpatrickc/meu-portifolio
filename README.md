@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <img alt="Meu cartão de visita" src="./assets/alancartao.png" width="100%">
+  <img alt="Meu cartão de visita" src="./assets/meucartao.png" width="100%">
 </p>
 
 <br>
